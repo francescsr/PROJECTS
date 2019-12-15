@@ -1,0 +1,17 @@
+/*body y background para color de fondo*/
+*  
+li{
+    font-size:20px;
+    color: burlywood
+}
+
+h1{
+    margin:30px;
+    color:blue;
+    font-size:50px;
+   }
+
+p{
+       font-size:25px;
+       color: #36B61D
+   }
